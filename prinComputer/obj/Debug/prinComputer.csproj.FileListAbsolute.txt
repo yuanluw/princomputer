@@ -36,3 +36,12 @@ G:\C#\串口调试助手\prinComputer\obj\Debug\prinComputer.csprojResolveAssemb
 G:\C#\串口调试助手\prinComputer\obj\Debug\prinComputer.Form1.resources
 G:\C#\串口调试助手\prinComputer\obj\Debug\prinComputer.Properties.Resources.resources
 G:\C#\串口调试助手\prinComputer\obj\Debug\prinComputer.csproj.GenerateResource.Cache
+G:\C#\prinComputer\prinComputer\bin\Debug\prinComputer.exe.config
+G:\C#\prinComputer\prinComputer\obj\Debug\prinComputer.exe
+G:\C#\prinComputer\prinComputer\obj\Debug\prinComputer.pdb
+G:\C#\prinComputer\prinComputer\bin\Debug\prinComputer.exe
+G:\C#\prinComputer\prinComputer\bin\Debug\prinComputer.pdb
+G:\C#\prinComputer\prinComputer\obj\Debug\prinComputer.csprojResolveAssemblyReference.cache
+G:\C#\prinComputer\prinComputer\obj\Debug\prinComputer.Form1.resources
+G:\C#\prinComputer\prinComputer\obj\Debug\prinComputer.Properties.Resources.resources
+G:\C#\prinComputer\prinComputer\obj\Debug\prinComputer.csproj.GenerateResource.Cache

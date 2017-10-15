@@ -192,7 +192,6 @@ namespace prinComputer
             string selectCom = comboBox1.Text;
 
             //更新可用串口列表
-
             if (comboBox1.Items.Count > 0)
             {
                 for(int i=0; i< comboBox1.Items.Count; i++)
@@ -217,7 +216,13 @@ namespace prinComputer
             else
             {
                 comboBox1.Text = "";
+                btnOpen.Text = "打开串口";
                 btnOpen.Enabled = false;
+                if(serialPort1.IsOpen)
+                {
+                    serialPort1.Close();
+                }
+              
             }
 
         }

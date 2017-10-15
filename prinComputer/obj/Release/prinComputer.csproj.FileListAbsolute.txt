@@ -15,3 +15,12 @@ G:\C#\串口调试助手\prinComputer\obj\Release\prinComputer.csprojResolveAsse
 G:\C#\串口调试助手\prinComputer\obj\Release\prinComputer.Form1.resources
 G:\C#\串口调试助手\prinComputer\obj\Release\prinComputer.Properties.Resources.resources
 G:\C#\串口调试助手\prinComputer\obj\Release\prinComputer.csproj.GenerateResource.Cache
+G:\C#\prinComputer\prinComputer\bin\Release\prinComputer.exe.config
+G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.exe
+G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.pdb
+G:\C#\prinComputer\prinComputer\bin\Release\prinComputer.exe
+G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.csprojResolveAssemblyReference.cache
+G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.Form1.resources
+G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.Properties.Resources.resources
+G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.csproj.GenerateResource.Cache
+G:\C#\prinComputer\prinComputer\bin\Release\prinComputer.pdb
