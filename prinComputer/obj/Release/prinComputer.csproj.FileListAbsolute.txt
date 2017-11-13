@@ -24,3 +24,4 @@ G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.Form1.resources
 G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.Properties.Resources.resources
 G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.csproj.GenerateResource.Cache
 G:\C#\prinComputer\prinComputer\bin\Release\prinComputer.pdb
+G:\C#\prinComputer\prinComputer\obj\Release\prinComputer.csproj.CoreCompileInputs.cache

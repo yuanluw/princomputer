@@ -194,10 +194,10 @@ namespace prinComputer
             //更新可用串口列表
             if (comboBox1.Items.Count > 0)
             {
-                for(int i=0; i< comboBox1.Items.Count; i++)
-                {
-                    comboBox1.Items.RemoveAt(i);
-                }
+                
+            
+                 comboBox1.Items.Clear();
+              
             }
 
             foreach (string port in ports)  
